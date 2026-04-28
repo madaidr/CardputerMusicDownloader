@@ -121,8 +121,6 @@ Firmware for **M5Cardputer** that allows:
 
 ## Лицензия / License
 
-## Лицензия / License
-
 Этот проект лицензирован под **MIT License** – подробности в файле [LICENSE](LICENSE).  
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
