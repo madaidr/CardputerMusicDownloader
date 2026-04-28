@@ -118,10 +118,3 @@ Firmware for **M5Cardputer** that allows:
 - The website `ru.drivemusic.me` may change HTML structure – parsing might break. Update selectors in `parseSearchResults` if needed.
 
 ---
-
-## Лицензия / License
-
-Этот проект лицензирован под **MIT License** – подробности в файле [LICENSE](LICENSE).  
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
