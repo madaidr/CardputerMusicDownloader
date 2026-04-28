@@ -1,6 +1,4 @@
 # CardputerMusicDownloader
-### Music Downloader for M5Cardputer
-
 ## 🇷🇺 Русский
 
 ### Описание
