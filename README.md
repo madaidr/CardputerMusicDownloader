@@ -50,7 +50,7 @@
    - `SD` (встроенная)
    - `WiFi`, `HTTPClient` (стандартные)
 2. Дополнительно для кириллического шрифта (опционально):
-   - `U8g2` и подключите файл шрифта `u8g2_font_6x12_t_cyrillic`.
+   - `U8g2` и подключите файл шрифта [u8g2_font_6x12_t_cyrillic](https://github.com/olikraus/u8g2/blob/master/tools/font/build/single_font_files/u8g2_font_6x12_t_cyrillic.c).
 3. Выберите плату **M5Stack-Cardputer**.
 4. Загрузите скетч.
 
